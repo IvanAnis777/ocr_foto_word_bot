@@ -1,0 +1,14 @@
+venv/
+temp/
+__pycache__/
+*.pyc
+.env
+.git/
+.gitignore
+bot.log
+whitelist.json
+*.docx
+*.png
+*.jpg
+test_ocr.py
+docs/
