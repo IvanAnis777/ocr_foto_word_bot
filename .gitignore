@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+temp/
+*.docx
+whitelist.json
+.DS_Store
+bot.log
